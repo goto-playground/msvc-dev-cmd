@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": [
+    "To find available presets and general documentation, see https://confluence.ops.expertcity.com/display/UCCDEVOPS/DT+-+Renovate."
+  ],
+  "extends": [
+    "config:recommended"
+  ]
+}
