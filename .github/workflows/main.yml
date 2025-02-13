@@ -58,7 +58,7 @@ jobs:
           dumpbin /headers hello.exe
   audit:
     name: npm audit
-    runs-on: ubuntu-latest
+    runs-on: goto-linux
     steps:
       - name: Check out source code
         uses: actions/checkout@v4
